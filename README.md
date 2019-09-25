@@ -9,3 +9,11 @@ ex.2
 ----
 * For question 7,according to the determinant rule, X'*Y equals to the sum of the product of the corresponding elements of X and Y which is equal to w.
 * Accept in two attempts. The attept 1 is because the filename ex.2 was miswritten as Ex.2.
+
+ex.5
+----
+* 
+
+ex.6
+----
+* Accept in one attempts
