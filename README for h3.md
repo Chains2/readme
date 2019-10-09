@@ -4,7 +4,7 @@ Homework 3
 ex1
 ---
 variable explaination:<br>
-The number of the grains of wheat
+n: The number of the grains of wheat
 
 
 ex3
