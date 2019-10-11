@@ -10,7 +10,7 @@ Changelog
 * The Ex.2 is completed.<br>
 * The plate of all cars are generated and At the end of the game the plate of all the cars that did not stop at the traffic light are displayed.<br>
 * Optimize the random function used to determine the cars of each road.<br>
-* Cars outside the cross road now will be hidden.
+* Cars outside the cross road now will be hidden.<br>
 
 
 Variable explanation
@@ -20,9 +20,16 @@ Variable explanation
 * right: To print the cars from right to left <br>
 * up: To print the cars from top to bottom <br>
 * down: To print the cars from bottom to top <br>
-* t: Time for the whole process.
-* pl: The cross road.
-* all: The plate of all cars.
-* Notstop: The cars that did not stop at the traffic light.
-* Type: To determine whether a car will stop at the red light.
-* LR/UD: The variable used to determine whether the cars crash.
+* t: Time for the whole process.<br>
+* pl: The cross road.<br>
+* all: The plate of all cars.<br>
+* Notstop: The cars that did not stop at the traffic light.<br>
+* Type: To determine whether a car will stop at the red light.<br>
+* LR/UD: The variable used to determine whether the cars crash.<br>
+
+
+Ex.2
+----
+* a): It is done in the 'ex2a' file.<br>
+   
+* b):
