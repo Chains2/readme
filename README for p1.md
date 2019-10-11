@@ -21,4 +21,8 @@ Variable explanation
 * up: To print the cars from top to bottom <br>
 * down: To print the cars from bottom to top <br>
 * t: Time for the whole process.
-
+* pl: The cross road.
+* all: The plate of all cars.
+* Notstop: The cars that did not stop at the traffic light.
+* Type: To determine whether a car will stop at the red light.
+* LR/UD: The variable used to determine whether the cars crash.
