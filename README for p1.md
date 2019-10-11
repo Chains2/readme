@@ -32,4 +32,27 @@ Ex.2
 ----
 * a): It is done in the 'ex2a' file.<br>
    
-* b):
+* b):e=input('','s');<br>
+     l=input('');<br>
+     n=input('');<br>
+     f=recursive('','',e,l,1,m);<br>
+
+
+     function f=recursive(a,b,e,L,y,n)<br>
+     d=length(e);<br>
+     flag=0;<br>
+     a(y)=e(randi(d));<br>
+     if y==L <br>
+       if   a doesn't equal to every line in b<br>
+            b=[b;a];<br>
+       end <br>
+       if   size(b,1)<n <br>
+            a=recursive(a,b,e,L,1,n); <br>
+       end <br>
+     end <br>
+     if y<L <br>
+        a=recursive(a,b,e,L,(y+1),n); <br>
+     end <br>
+     f=b; <br>
+end <br>
+
